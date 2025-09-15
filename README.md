@@ -23,7 +23,7 @@ The model is built using **machine learning algorithms** and can assist in **ear
 ## 🛠️ Technologies Used
 - **Programming Language: Python  
 - **Libraries: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **Deployment (optional): Streamlit   
+- **Deployment : Streamlit   
 
 ---
 
