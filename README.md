@@ -44,7 +44,6 @@ Feature importance analysis
 ROC curve & Confusion Matrix
 Example prediction:
 Input: Glucose=120, BMI=32, Age=45 → Prediction: Diabetic ✅
-(Add screenshots/plots here)
 
 🔮 Future Improvements
 Add more medical data for better accuracy
