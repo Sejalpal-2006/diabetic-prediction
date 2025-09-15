@@ -35,7 +35,8 @@ The model outputs:
 
 🤖 Model Training & Evaluation
 Algorithms used: SVM & its hyperparameter
-Best performing model: Random Forest
+
+Best performing model: SVM 
 Accuracy Achieved: 78%
 Evaluation Metrics: Confusion Matrix, Precision, Recall, F1-score
 
