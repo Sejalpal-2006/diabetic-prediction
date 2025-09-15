@@ -34,9 +34,9 @@ The model outputs:
 1 → Diabetic
 
 🤖 Model Training & Evaluation
-Algorithms used: Logistic Regression, Random Forest, SVM
+Algorithms used: SVM & its hyperparameter
 Best performing model: Random Forest
-Accuracy Achieved: <your_accuracy>%
+Accuracy Achieved: 78%
 Evaluation Metrics: Confusion Matrix, Precision, Recall, F1-score
 
 📈 Results
