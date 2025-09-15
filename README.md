@@ -37,19 +37,28 @@ The model outputs:
 Algorithms used: SVM & its hyperparameter
 
 Best performing model: SVM 
+
 Accuracy Achieved: 78%
+
 Evaluation Metrics: Confusion Matrix, Precision, Recall, F1-score
 
 📈 Results
 Feature importance analysis
+
 ROC curve & Confusion Matrix
+
 Example prediction:
+
 Input: Glucose=120, BMI=32, Age=45 → Prediction: Diabetic ✅
 
 🔮 Future Improvements
+
 Add more medical data for better accuracy
+
 Implement deep learning (ANN)
+
 Deploy model to cloud (AWS / Heroku / GCP)
+
 Build a mobile-friendly UI
 
 👩‍💻 Contributors
